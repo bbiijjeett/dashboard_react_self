@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('C:/Users/LENOVO/Downloads/welcome-bg.jpg')",
+            "url('../src/data/welcome-bg.svg')",
         },
       },
     },
